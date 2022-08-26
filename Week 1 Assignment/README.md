@@ -6,9 +6,12 @@ Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present be
 
 
 Make a Basic Portfolio Website for yourself 
+
 The Template is as follows...
-Use online resources and the internet for any help you require.
 [Template](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/blob/main/Week%201%20Assignment/Task-1.png)
+
+Use online resources and the internet for any help you require.
+
 
 [wiki](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/) for further instructions
 
