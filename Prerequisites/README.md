@@ -55,11 +55,14 @@ Example:
 After your task is done you need to push it to GitHub
 Make sure you are in the root of your project and not in your week folder before running these commands. You can come out of your week folder with the command
     **cd ..**
+    
 Add files to be committed using the command 
     **git add .** 
+
 (the "." after add means all files in the current directory will be added)
 Add a descriptive commit message for the same. Command- 
     **git commit -m "<message>".**
+
 Mention any errors or issues in the code in the commit message, if any.
 Finally, push your code. command - 
     **git push origin <branch-name>**
