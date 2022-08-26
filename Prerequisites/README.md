@@ -48,22 +48,28 @@ Make Sure to switch back to your own branch after viewing the solutions
 
 # Task Submission
 Open Git Bash in your project folder and run the following commands to make a folder for each week
+
 Example:
 **mkdir week1**
+
 **cd week1**
+
 **code .**
+
 After your task is done you need to push it to GitHub
 Make sure you are in the root of your project and not in your week folder before running these commands. You can come out of your week folder with the command
-    **cd ..**
-    
+**cd ..**
+
 Add files to be committed using the command 
     **git add .** 
 
 (the "." after add means all files in the current directory will be added)
+
 Add a descriptive commit message for the same. Command- 
     **git commit -m "<message>".**
 
 Mention any errors or issues in the code in the commit message, if any.
+
 Finally, push your code. command - 
     **git push origin <branch-name>**
 
