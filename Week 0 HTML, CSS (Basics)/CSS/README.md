@@ -4,32 +4,6 @@
 
 Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present before you all the web development bootcamp in which we will be teaching you everything you need to know about web dev to get started.  From HTML, CSS, JS to further experimenting with the DOM and to complete MERN stack, in the most concise manner possible. All of this would be accompanied by fun tasks and doubt-solving sessions each week.
 
-
-# HTML
-
-HTML is a markup language used to write content that is displayed in a web browser
-
-# Resources:
-
-Video Tutorial-1 [Traversy](https://www.youtube.com/watch?v=UB1O30fR-EE&t=650s)
-
-Video Tutorial-2 [freecodecamp](https://www.youtube.com/watch?v=pQN-pnXPaVg&t=6614s)
-
-MDN Web Docs [link](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-W3 schools [link](https://www.w3schools.com/html/default.asp)
-
-# Bonus
-
-Basic styling with CSS
-
-w3 schools [link](https://www.w3schools.com/css/)
-
-MDN Web Docs [link](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-
-<br>
-
 [wiki](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/) for further instructions
 
 <br>
