@@ -53,14 +53,21 @@ Only learn responsive design after you are done with the CSS basics and Flexbox
 
 
 # Additional Resources:
+
 Freecodecamp Responsive Design Tutorial
+
 [Youtube](https://www.youtube.com/watch?v=srvUrASNj0s&t=2188s)
 
 # Additional Resources:
+
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 [Article](https://medium.com/the-andela-way/basic-introduction-to-css-81f6041b92d0)
+
 Traversy Media CSS [Tutorial](https://www.youtube.com/watch?v=yfoY53QXEnI)
+
 Freecodecamp [Complete Tutorial](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=8081s)
+
 
 <br>
 
