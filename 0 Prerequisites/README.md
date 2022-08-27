@@ -20,11 +20,11 @@ Github is a free and open-source version control system, that helps you keep tra
 
 **How to Install Git and Github**
 
-Installing Git on Windows
+* Installing Git on Windows
 
 Download Git from [Git for Windows](https://gitforwindows.org/) and install it
 
-Installing Git on Linux
+* Installing Git on Linux
 
 Determine which Linux distribution your system is based on. [See List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) – Wikipedia for a list of different Linux Distributions. Most Linux systems – including Ubuntu – are Debian-based.
 
@@ -37,7 +37,7 @@ Debian-based Linux Systems
 
 You can use Git now.
 
-**Installing Git on a Mac** 
+* **Installing Git on a Mac** 
 
 [Open a terminal window.](https://www.youtube.com/watch?v=zw7Nd67_aFw)
 
@@ -67,27 +67,27 @@ First, create a Github ID, then move on.
 
 Clone the ACM-Web-Dev-Workshop repository 
 
-git clone https://github.com/DakshDadhania/ACM-Web-Dev-Workshop.git
+`git clone https://github.com/DakshDadhania/ACM-Web-Dev-Workshop.git`
 
-Create a branch---  git checkout -b <branch-name>
+Create a branch---  `git checkout -b <branch-name>`
 
-Change into another branch---  git checkout <branch-name>
+Change into another branch---  `git checkout <branch-name>`
 
 Adding Files to be committed
 
-git add <filename1> <folder_name>\<filename2> - Adds filename1 in current directory and filename2 in the folder.
+`git add <filename1> <folder_name>\<filename2>` - Adds filename1 in current directory and filename2 in the folder.
 
-git add . - Adds all files in the current directory
+`git add .` - Adds all files in the current directory
 
-Adding a commit message---  git commit -m "<message>"
+Adding a commit message---  `git commit -m "<message>"`
 
-To check the status of files---  git status
+To check the status of files---  `git status`
 
-Pushing the committed changes to the GitHub repository---  git push origin <branch-name>
+Pushing the committed changes to the GitHub repository---  `git push origin <branch-name>`
 
 Note: Never push to the main branch, create your own branch and change into that and then push.
 
-Pulling changes from the GitHub repository--- git pull origin <branch-name>
+Pulling changes from the GitHub repository--- `git pull origin <branch-name>`
 
 A detailed Article on Git and Github
 
@@ -96,35 +96,35 @@ We Highly recommend using VS Code with its live compiler extension for web devel
 
 Install it from their official [website](https://code.visualstudio.com/)
 
-Set up Live Server by going through this [website](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/)
+Set up `Live Server` by going through this [website](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/)
 
 # Setting up this repository on your device
 
 Open the Terminal in your project's location if you're using Mac or Linux. Windows users can open Git Bash which is a terminal installed along with Git(Right-click and click on Git Bash here).
 Configure user information for all local repositories:
 Sets the name you want attached to your commit transactions 
-**git config --global user.name "<name>"**
+`**git config --global user.name "<name>"**`
 
 Sets the email you want attached to your commit transactions   
-**git config --global user.email "<email address>"**
+`**git config --global user.email "<email address>"**`
 
 Cloning and pull codes:
 Clone the repository using  
-**git clone https://github.com/DakshDadhania/ACM-Web-Dev-Workshop.git** 
+`**git clone https://github.com/DakshDadhania/ACM-Web-Dev-Workshop.git** `
 
 Move to this directory using 
-**cd ACM-Web-Dev-Workshop**
+`**cd ACM-Web-Dev-Workshop**`
 
 Create a new branch with your name using the command 
-**git checkout -b <branch-name>**
+`**git checkout -b <branch-name>**`
 with branch name in format "-". eg.- 
-**git checkout -b <your-name-here>**  
+`**git checkout -b <your-name-here>**`
 
-All commits should be made to your own branch, Never commit to master. To prevent this always check what branch you're on before committing any changes, the command to check current branch "  git branch  ", the command to checkout(change to) a branch, 
-**git checkout <branch-name>**
+All commits should be made to your own branch, Never commit to master. To prevent this always check what branch you're on before committing any changes, the command to check current branch "  `git branch  "`, the command to checkout(change to) a branch, 
+`**git checkout <branch-name>**`
 
 To pull solutions after they are uploaded to main, change branch to master and do a git pull.
-**git checkout main  |  git pull origin main**
+`**git checkout main  |  git pull origin main**`
 
 Make Sure to switch back to your own branch after viewing the solutions
 
@@ -140,20 +140,20 @@ Example:
 
 After your task is done you need to push it to GitHub
 Make sure you are in the root of your project and not in your week folder before running these commands. You can come out of your week folder with the command
-**cd ..**
+`**cd ..**`
 
 Add files to be committed using the command 
-    **git add .** 
+    `**git add .**` 
 
 (the "." after add means all files in the current directory will be added)
 
 Add a descriptive commit message for the same. Command- 
-    **git commit -m "<message>".**
+    `**git commit -m "<message>".**`
 
 Mention any errors or issues in the code in the commit message, if any.
 
 Finally, push your code. command - 
-    **git push origin <branch-name>**
+    `**git push origin <branch-name>**`
 
     git checkout -b <branch-name> // Use your full name in the format first-last for your branch name
     git checkout <branch-name>	// to make sure you are in your own branch
