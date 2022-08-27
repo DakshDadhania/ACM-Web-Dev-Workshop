@@ -4,10 +4,92 @@
 
 Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present before you all the web development bootcamp in which we will be teaching you everything you need to know about web dev to get started.  From HTML, CSS, JS to further experimenting with the DOM and to complete MERN stack, in the most concise manner possible. All of this would be accompanied by fun tasks and doubt-solving sessions each week.
 
+# Tools required 
+1) VS Code 
+2) Git (installed in your computer)
+3) Figma installed
+4) Live server Extension in VS CODE
 
 # Git and Github
 Git is an open-source system, that is used for version control while developing software. It is used for tracking changes, and is meant for easy collaborations.
 Github is where you can host your git repositories, and collaborate using git on the internet. Github can be used from the browser or from the git command line.
+
+# Introduction to Github
+
+Github is a free and open-source version control system, that helps you keep track of changes to files in a filesystem or repository over time. It helps you track all the changes made to a file or a directory in general, thus enabling development in teams or organizations. Git comes with the git-shell which has a set of commands that can help you perform different operations on your repositories. Github is a service that hosts your repositories online and lets you collaborate with others through it. You can use Github through the browser or the git-shell on your pc.
+
+**How to Install Git and Github**
+
+Installing Git on Windows
+
+Download Git from [Git for Windows](https://gitforwindows.org/) and install it
+
+Installing Git on Linux
+
+Determine which Linux distribution your system is based on. [See List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) – Wikipedia for a list of different Linux Distributions. Most Linux systems – including Ubuntu – are Debian-based.
+
+Debian-based Linux Systems
+[Open a terminal window](https://help.ubuntu.com/community/UsingTheTerminal). Copy & paste the following into the terminal window and hit Return. You may be prompted to enter your password.
+
+    sudo apt-get update 
+    sudo apt-get upgrade
+    sudo apt-get install git
+
+You can use Git now.
+
+**Installing Git on a Mac** 
+
+[Open a terminal window.](https://www.youtube.com/watch?v=zw7Nd67_aFw)
+
+Step 1 – Install [Homebrew](https://brew.sh/)
+Homebrew simplifies the installation of software on the Mac OS X operating system.
+
+
+Copy & paste the following into the terminal window and hit Return.
+
+
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    brew doctor
+
+You will be offered to install the Command Line Developer Tools from Apple. Confirm by clicking Install. After the installation finished, continue installing Homebrew by hitting **Return** again.
+
+Step 2 – Install Git
+
+Copy & paste the following into the terminal window and hit Return.
+
+    brew install git
+
+You can use Git now.
+
+# Commands you'll need in this project
+
+First, create a Github ID, then move on.
+
+Clone the ACM-Web-Dev-Workshop repository 
+
+git clone https://github.com/DakshDadhania/ACM-Web-Dev-Workshop.git
+
+Create a branch---  git checkout -b <branch-name>
+
+Change into another branch---  git checkout <branch-name>
+
+Adding Files to be committed
+
+git add <filename1> <folder_name>\<filename2> - Adds filename1 in current directory and filename2 in the folder.
+
+git add . - Adds all files in the current directory
+
+Adding a commit message---  git commit -m "<message>"
+
+To check the status of files---  git status
+
+Pushing the committed changes to the GitHub repository---  git push origin <branch-name>
+
+Note: Never push to the main branch, create your own branch and change into that and then push.
+
+Pulling changes from the GitHub repository--- git pull origin <branch-name>
+
+A detailed Article on Git and Github
 
 # Visual Studio Code
 We Highly recommend using VS Code with its live compiler extension for web development.
