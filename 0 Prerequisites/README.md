@@ -14,7 +14,7 @@ Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present be
 1) [MongoDB](https://www.mongodb.com/docs/manual/installation/)
 2) [NPM package installer](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 3) [React Js And Node Js](https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm)
-4) [Express Js installed](https://expressjs.com/en/starter/installing.html)
+4) [Express Js install](https://expressjs.com/en/starter/installing.html)
 
 
 # Git and Github
