@@ -10,6 +10,13 @@ Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present be
 3) Figma installed
 4) Live server Extension in VS CODE
 
+# Additionally Install
+1) [MongoDB](https://www.mongodb.com/docs/manual/installation/)
+2) [NPM package installer](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+3) [React Js And Node Js](https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm)
+4) [Express Js installed](https://expressjs.com/en/starter/installing.html)
+
+
 # Git and Github
 Git is an open-source system, that is used for version control while developing software. It is used for tracking changes, and is meant for easy collaborations.
 Github is where you can host your git repositories, and collaborate using git on the internet. Github can be used from the browser or from the git command line.
