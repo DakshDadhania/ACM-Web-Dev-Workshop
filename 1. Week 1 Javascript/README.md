@@ -11,9 +11,13 @@ JavaScript is a very powerful client-side scripting language. It is used mainly 
 # Resources:
 
 [Fundamentals](https://javascript.info/first-steps)
+
 [DOM](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
 [Scope](https://www.w3schools.com/js/js_scope.asp)
+
 [this keyword](https://www.w3schools.com/js/js_this.asp)
+
 [ES6](https://www.w3schools.com/js/js_es6.asp)
 
 
@@ -22,17 +26,19 @@ JavaScript is a very powerful client-side scripting language. It is used mainly 
 # Additional Resources:
 
 JS Tutorial- Traversy Media
+
 [Fundamentals -Video Tutorial](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4154s)
 
 [The DOM -Video Tutorial](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
 
 freecodecamp
+
 [Javascript Tutorial](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 
 <br>
 
-Use Multiple Resources to learn from as Web Dev is a Vast Domain and will Require you to search everywhere in the internet. Still all the great resources are linked above... Please Use them... Happy Learning..
+Use Multiple Resources to learn from as Web Dev is a vast domain and will require you to search everywhere in the internet. Still all the great resources are linked above... Please Use them... Happy Learning..
 
 <br>
 [wiki](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/) for further instructions
