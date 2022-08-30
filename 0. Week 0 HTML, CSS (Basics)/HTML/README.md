@@ -30,7 +30,7 @@ MDN Web Docs [link](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <br>
 
-[wiki](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/) for further instructions
+[CSS](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/tree/main/0.%20Week%200%20HTML%2C%20CSS%20(Basics)/CSS) for further instructions
 
 <br>
 
