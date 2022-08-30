@@ -4,15 +4,6 @@
 
 Welcome to the ACM Complete Web Development Workshop 2022! We, at ACM present before you all the web development bootcamp in which we will be teaching you everything you need to know about web dev to get started.  From HTML, CSS, JS to further experimenting with the DOM and to complete MERN stack, in the most concise manner possible. All of this would be accompanied by fun tasks and doubt-solving sessions each week.
 
-
-Make a Basic Portfolio Website for yourself 
-
-The Template is as follows...
-[Template](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/blob/main/Week%200%20Assignment/Task-1.png)
-
-Use online resources and the internet for any help you require.
-
-
 [wiki](https://github.com/DakshDadhania/ACM-Web-Dev-Workshop/) for further instructions
 
 <br>
